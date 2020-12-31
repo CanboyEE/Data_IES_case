@@ -1,2 +1,2 @@
-# Data_IES_case
-This is the data of an integrated energy system case.
+# Data_IES_cases
+This is the data of two integrated energy systems.
